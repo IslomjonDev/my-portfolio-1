@@ -1,0 +1,87 @@
+.navbar {
+  background-color: #1C1E53;
+}
+.navbar .offcanvas-body, .navbar .offcanvas-body ul {
+  gap: 40px;
+}
+
+.pricing-title p {
+  max-width: 562px;
+}
+
+.pricing-card {
+  max-width: 406px;
+  height: 745px;
+  border-radius: 12px;
+  background: var(--Grey, #F4F6FC);
+  margin-top: 100px;
+}
+.pricing-card button {
+  margin-top: 150px;
+  margin-left: 50px;
+  border-radius: 25px;
+}
+
+.pricing-card span {
+  gap: 20px;
+}
+.pricing-card span p {
+  margin-top: 10px;
+}
+.pricing-card span img {
+  margin-top: -5px;
+}
+
+.pricing-cards {
+  gap: 40px;
+}
+
+.last-btn {
+  position: relative;
+  bottom: 50px;
+}
+
+footer {
+  background-color: #1C1E53;
+}
+
+.footer-content {
+  gap: 200px;
+}
+
+.footer-left p {
+  max-width: 399px;
+  margin-bottom: 86px;
+}
+
+.foter-card {
+  max-width: 517px;
+  height: 95px;
+  gap: 50px;
+}
+
+.footer-right p {
+  max-width: 399px;
+}
+
+.foter-sponsors {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.accordion-content {
+  gap: 40px;
+}
+
+.accordion-left h1 {
+  max-width: 400px;
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+
+.accordion-item {
+  border-bottom: 1px solid black;
+}

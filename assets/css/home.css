@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.navbar {
+  background-color: #1C1E53;
+}
+.navbar .offcanvas-body, .navbar .offcanvas-body ul {
+  gap: 30px;
+}
+
+.home {
+  background-color: #1C1E53;
+  padding: 150px 0;
+}
+.home button {
+  border-radius: 30px;
+}
+.home .home-content {
+  gap: 60px;
+}
+.home .home-content h1 {
+  font-size: 54px;
+  max-width: 585px;
+}
+.home .home-content p {
+  max-width: 568px;
+}
+
+.features-title p {
+  margin: 0 auto;
+}
+
+.projects-content {
+  gap: 30px;
+}
+.projects-content .projects-right {
+  display: grid;
+  -webkit-column-gap: 10px;
+     -moz-column-gap: 10px;
+          column-gap: 10px;
+}
+
+.features {
+  background: #F4F6FC;
+  padding: 150px 0;
+}
+.features h1 {
+  max-width: 630px;
+}
+
+.sec3-col {
+  margin-top: 50px;
+}
+
+.sec3 {
+  margin: 0 auto;
+}
+.sec3 h4 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 128px;
+}
+.sec3 h2 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+  max-width: 630px;
+  text-align: center;
+  margin: 0 auto;
+}
+.sec3-cards {
+  gap: 32px;
+}
+.sec3-cards span h3 {
+  max-width: 315px;
+  font-size: 24px;
+}
+.sec3-cards img {
+  width: 35px;
+  height: 35px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.carousel-item {
+  gap: 50px;
+}
+
+.carusel-item-first-text h1, p {
+  max-width: 327px;
+}
+
+.carusel-item-second-text h1 {
+  max-width: 843px;
+}
+
+footer {
+  background-color: #1C1E53;
+}
+
+.footer-content {
+  gap: 200px;
+}
+
+.footer-left p {
+  max-width: 399px;
+  margin-bottom: 86px;
+}
+
+.foter-card {
+  max-width: 517px;
+  height: 95px;
+  gap: 50px;
+}
+
+.footer-right p {
+  max-width: 399px;
+}
+
+.foter-sponsors {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.carusel-img {
+  gap: 30px;
+}

@@ -1,0 +1,68 @@
+.navbar {
+    background-color: #1C1E53;
+    .offcanvas-body , .offcanvas-body ul{
+        gap: 40px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #1C1E53;
+}
+.footer-content {
+    gap: 200px;
+}
+.footer-left p {
+    max-width: 399px;
+    margin-bottom: 86px;
+}
+.foter-card {
+    max-width: 517px;
+height: 95px;
+gap: 50px;
+}
+.footer-right p {
+    max-width: 399px;
+}
+.foter-sponsors  {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+.contact-title p {
+    max-width:562px ;
+}
+.inputs {
+    gap: 50px;
+  
+}
+.container-forms {
+    margin: 0 auto;
+    background-color: #F4F6FC;
+    max-width: 1060px;
+    padding: 70px;
+    button {
+        border-radius: 25px;
+    }
+}

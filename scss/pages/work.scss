@@ -1,0 +1,106 @@
+.navbar {
+    background-color: #1C1E53;
+    .offcanvas-body , .offcanvas-body ul{
+        gap: 40px;
+    }
+}
+.work {
+    background-color:#F4F6FC ;
+    .work-title p {
+        max-width: 733px;
+        margin: 0 auto;
+    }
+    .work-title h1 {
+        color: var(--Dark-blue, #282938);
+text-align: center;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: 64px; /* 133.333% */
+    }
+    .icons {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        gap: 20px;
+    }
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+.work-link ul {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 35px;
+}
+.work-cards , 
+.work-cards2 , 
+.work-cards3 , 
+.work-cards4 {
+    display: flex;
+max-width: 623px;
+padding: 30px 39px 33px 39px;
+justify-content: center;
+align-items: center;
+}
+.work-content p {
+    max-width: 623px;
+}
+.work-duo-card  {
+    gap: 35px;
+}
+.work-cards{
+    background: linear-gradient(131deg, #F4EDE1 16.74%, #98B1C6 103.17%);
+}
+.work-cards2 {
+    background: linear-gradient(131deg, #FFD3AF 16.74%, #4F56FF 103.17%);
+}
+.work-cards3 {
+    background: linear-gradient(131deg, #EEBCA7 16.74%, #C8C8C8 103.17%);
+}
+.work-cards4 {
+    background: linear-gradient(131deg, #C2E7F2 16.74%, #98A4FF 103.17%);
+}
+.work-content h1 {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.work-content p {
+    max-width: 560px;
+    margin: 0 auto;
+}
+.work-content button {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+footer {
+    background-color: #1C1E53;
+}
+.footer-content {
+    gap: 200px;
+}
+.footer-left p {
+    max-width: 399px;
+    margin-bottom: 86px;
+}
+.foter-card {
+    max-width: 517px;
+height: 95px;
+gap: 50px;
+}
+.footer-right p {
+    max-width: 399px;
+}
+.foter-sponsors  {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+
+}

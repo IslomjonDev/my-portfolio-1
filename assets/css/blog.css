@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.navbar {
+  background-color: #1C1E53;
+}
+.navbar .offcanvas-body, .navbar .offcanvas-body ul {
+  gap: 40px;
+}
+
+.sec1 h1 {
+  max-width: 949px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 128px;
+}
+.sec1 p {
+  max-width: 831px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 48px;
+}
+.sec1 a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 16px;
+}
+
+.sec2 h2 {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 128px;
+  margin-bottom: 48px;
+}
+.sec2 .card h6 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  opacity: 0.7;
+  padding-top: 32px;
+}
+.sec2 .card span {
+  margin-bottom: 64px;
+}
+.sec2 .card span a {
+  color: var(--Tint-blue, #1C1E53);
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+footer {
+  background-color: #1C1E53;
+}
+
+.footer-content {
+  gap: 200px;
+}
+
+.footer-left p {
+  max-width: 399px;
+  margin-bottom: 86px;
+}
+
+.foter-card {
+  max-width: 517px;
+  height: 95px;
+  gap: 50px;
+}
+
+.footer-right p {
+  max-width: 399px;
+}
+
+.foter-sponsors {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.cards {
+  gap: 30px;
+}

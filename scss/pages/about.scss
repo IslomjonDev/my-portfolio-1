@@ -1,0 +1,62 @@
+.about-left h1 {
+    max-width: 595px;
+    color: var(--Dark-blue, #282938);
+font-family: Poppins;
+font-size: 54px;
+font-style: normal;
+font-weight: 600;
+line-height: 74px; 
+}
+.about-left p {
+    opacity: 0.7;
+    max-width: 480px;
+}
+.about-content {
+    gap: 150px;
+    padding: 120px 0;
+}
+.about-text {
+    background: #F4F5F5; 
+}
+.about-text-content {
+    gap: 60px;
+}
+.text-card p {
+    max-width: 515px;
+}
+.persons-card {
+    gap: 30px;
+}
+.persons {
+    background-color: #F4F6FC;
+}
+.navbar {
+    background-color: #1C1E53;
+    .offcanvas-body , .offcanvas-body ul{
+        gap: 40px;
+    }
+}
+footer {
+    background-color: #1C1E53;
+}
+.footer-content {
+    gap: 200px;
+}
+.footer-left p {
+    max-width: 399px;
+    margin-bottom: 86px;
+}
+.foter-card {
+    max-width: 517px;
+height: 95px;
+gap: 50px;
+}
+.footer-right p {
+    max-width: 399px;
+}
+.foter-sponsors  {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+
+}
